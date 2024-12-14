@@ -18,8 +18,7 @@ var Commands map[string]string = map[string]string{
 `,
 	"ABOUT": `
 ○ <b>Language</b>: <a href='https://go.dev'>GO</a>
-○ <b>Library</b>: <a href='https://github.com/PaulSonOfLars/gotgbot'>GoTgbot</a>
-○ <b>Support</b>: <a href='https://t.me/FractalProjects'>@Fractal</a>
+○ <b>dev</b>: <a href='https://t.me/mntgxo'>MN-TG</a>
 	`,
 
 	"HELP": `
@@ -54,7 +53,7 @@ Add the bot to your channel and copy the link of the first and last post(includi
 <b>Format</b>
 <code>/batch start_post_link end_post_link</code>
 <b>Example</b>
-<code>/batch https://t.me/c/123456789/69 https://t.me/c/123456789/100</code>
+<code>/batch https://t.me/mntgxo/50 https://t.me/mntgxo/150</code>
 </blockquote>`
 
 	// Unable to access source channel
@@ -77,7 +76,7 @@ Add the bot to your channel and forward the post and use this command as a reply
 <b>Format</b>
 <code>/genlink post_link</code>
 <b>Example</b>
-<code>/genlink https://t.me/c/123456789/69</code>
+<code>/genlink https://t.me/mntgxo/50</code>
 </blockquote>`
 )
 
